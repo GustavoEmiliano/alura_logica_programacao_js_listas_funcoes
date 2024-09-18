@@ -10,7 +10,8 @@ exibirTextoNaTela("p", "Escolha um número entre 1 e 10");
 
 / * Uma função é responsável por determinar alguma ação dentro do nosso código */
 function verificarChute(){
-  console.log(numeroSecreto); 
+  let chute = document.querySelector("input").value;
+  console.log(chute == numeroSecreto); 
 }
 
 function gerarNumeroAleatorio(){
