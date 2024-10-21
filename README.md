@@ -2,7 +2,7 @@
 
 
 <div align="center">
-    <img align="center" height="270" width="300" src="https://github.com/GustavoEmiliano/jogo_numero_secreto_alura/blob/main/img/alura-logo.png" alt="Alura Logo"><br><br>
+    <img align="center" height="100" width="200" src="https://github.com/GustavoEmiliano/jogo_numero_secreto_alura/blob/main/img/alura-logo.png" alt="Alura Logo"><br><br>
 </div>
 
 
